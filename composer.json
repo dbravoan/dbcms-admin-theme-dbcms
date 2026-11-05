@@ -1,0 +1,16 @@
+{
+    "name": "dbravoan/dbcms-admin-theme-dbcms",
+    "type": "dbcms-admin-theme",
+    "description": "Backoffice oscuro de alta tecnología con acentos neón #00FF99, tipografía monoespaciada y estética cyber-terminal.",
+    "license": "MIT",
+    "require": {
+        "dbravoan/dbcms-core": "^1.0"
+    },
+    "extra": {
+        "dbcms": {
+            "identifier": "dbcms",
+            "repository": "https://github.com/dbravoan/dbcms-admin-theme-dbcms",
+            "name": "dbCMS (Dark Cyberpunk)"
+        }
+    }
+}
